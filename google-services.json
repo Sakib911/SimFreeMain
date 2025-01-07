@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172586581718",
+    "project_id": "simfreemain",
+    "storage_bucket": "simfreemain.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172586581718:android:e67ba64b66bf38ac019377",
+        "android_client_info": {
+          "package_name": "com.simfree.simfree"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1D-HEU_OGUjDsTW_VHMXmg2rdGPfJYbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
